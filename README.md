@@ -4,3 +4,4 @@
 
 整体思路基于"Enhanced Directed Speech-to-Speech Translation Using Self Pre-training and Data Augmentation" 和 "Vec Tok Speech"
 
+Decoder 尝试了Transformer Decoder和in-context learning两种（Llama）
